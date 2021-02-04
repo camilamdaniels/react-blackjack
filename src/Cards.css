@@ -25,6 +25,21 @@
 	font-size: 15px;
 }
 
+.Cards-score {
+	display: inline-block;
+	color: white;
+	margin: auto;
+	justify-content: center;
+}
+
+.score {
+	display: inline-block;
+	padding-left: 300px;
+	padding-right: 300px;
+	margin-bottom: 80px;
+	font-size: 40px;
+}
+
 .Cards-btn {
 	background: none;
 	outline: none;
