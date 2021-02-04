@@ -33,8 +33,7 @@ class Card extends Component {
 			<div className="Card">
 				<img 
 					src={this.props.image} 
-					alt={`${this.props.suit} ${this.props.value}`}
-					style={{ transform: this.state.transform }}/>
+					alt={`${this.props.suit} ${this.props.value}`}/>
 			</div>
 		)
 	}

@@ -3,7 +3,15 @@
 }
 
 .Cards-display {
+	display: flex;
 	margin-top: 80px;
+	justify-content: center;
+}
+
+.Cards-hand {
+	justify-content: center;
+	display: flex;
+	margin: 80px;
 }
 
 .Cards-title {
